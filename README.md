@@ -100,16 +100,7 @@ algokit bootstrap all
 - [ ] Build frontend
 - [ ] Deploy to Algorand TestNet
 
-## Contributing
-
-This is a course project. Suggestions and feedback are welcome via issues.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
-**Your Name**
-MSc Blockchain Technology, MIT WPU
-Course: Algorand Development
+Sujal Khatri
